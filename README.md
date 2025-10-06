@@ -456,11 +456,11 @@ Publish the website in the given URL.
 
 ```
 
-## OUTPUT:
-![alt text](<restaurant/Screenshot 2025-09-30 150138.png>)
-![alt text](<restaurant/Screenshot 2025-09-30 150150.png>)
-![alt text](<restaurant/Screenshot 2025-09-30 150204.png>)
-![alt text](<restaurant/Screenshot 2025-09-30 150215.png>)
+## OUTPUT: 
+![alt text](<Screenshot 2025-09-30 150138.png>)
+![alt text](<Screenshot 2025-09-30 150150.png>)
+![alt text](<Screenshot 2025-09-30 150204.png>)
+![alt text](<Screenshot 2025-09-30 150215.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
